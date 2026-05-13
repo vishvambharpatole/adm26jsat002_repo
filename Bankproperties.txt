@@ -1,0 +1,5 @@
+bank.name=ICICI
+bank.address=Chennai
+bank.Cname=Srinu
+bank.accno=1111
+bank.acctype=saving
